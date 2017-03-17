@@ -1,0 +1,23 @@
+[2017-02-14T18:17:22,347][INFO ][o.e.n.Node               ] [] initializing ...
+[2017-02-14T18:17:22,848][INFO ][o.e.e.NodeEnvironment    ] [lmH2s5S] using [1] data paths, mounts [[New Volume (E:)]], net usable_space [207.1gb], net total_space [221.6gb], spins? [unknown], types [NTFS]
+[2017-02-14T18:17:22,848][INFO ][o.e.e.NodeEnvironment    ] [lmH2s5S] heap size [1.9gb], compressed ordinary object pointers [true]
+[2017-02-14T18:17:22,864][INFO ][o.e.n.Node               ] node name [lmH2s5S] derived from node ID [lmH2s5SmSYa4eekPjOZCLg]; set [node.name] to override
+[2017-02-14T18:17:22,879][INFO ][o.e.n.Node               ] version[5.2.0], pid[8924], build[24e05b9/2017-01-24T19:52:35.800Z], OS[Windows 10/10.0/amd64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_111/25.111-b14]
+[2017-02-14T18:17:24,129][INFO ][o.e.p.PluginsService     ] [lmH2s5S] loaded module [aggs-matrix-stats]
+[2017-02-14T18:17:24,129][INFO ][o.e.p.PluginsService     ] [lmH2s5S] loaded module [ingest-common]
+[2017-02-14T18:17:24,129][INFO ][o.e.p.PluginsService     ] [lmH2s5S] loaded module [lang-expression]
+[2017-02-14T18:17:24,129][INFO ][o.e.p.PluginsService     ] [lmH2s5S] loaded module [lang-groovy]
+[2017-02-14T18:17:24,129][INFO ][o.e.p.PluginsService     ] [lmH2s5S] loaded module [lang-mustache]
+[2017-02-14T18:17:24,129][INFO ][o.e.p.PluginsService     ] [lmH2s5S] loaded module [lang-painless]
+[2017-02-14T18:17:24,129][INFO ][o.e.p.PluginsService     ] [lmH2s5S] loaded module [percolator]
+[2017-02-14T18:17:24,129][INFO ][o.e.p.PluginsService     ] [lmH2s5S] loaded module [reindex]
+[2017-02-14T18:17:24,129][INFO ][o.e.p.PluginsService     ] [lmH2s5S] loaded module [transport-netty3]
+[2017-02-14T18:17:24,129][INFO ][o.e.p.PluginsService     ] [lmH2s5S] loaded module [transport-netty4]
+[2017-02-14T18:17:24,129][INFO ][o.e.p.PluginsService     ] [lmH2s5S] no plugins loaded
+[2017-02-14T18:17:26,925][INFO ][o.e.n.Node               ] initialized
+[2017-02-14T18:17:26,925][INFO ][o.e.n.Node               ] [lmH2s5S] starting ...
+[2017-02-14T18:17:27,504][INFO ][o.e.t.TransportService   ] [lmH2s5S] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2017-02-14T18:17:30,596][INFO ][o.e.c.s.ClusterService   ] [lmH2s5S] new_master {lmH2s5S}{lmH2s5SmSYa4eekPjOZCLg}{ck7WKctmQ1uYPZyQfixD1w}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-elected-as-master ([0] nodes joined)
+[2017-02-14T18:17:30,705][INFO ][o.e.g.GatewayService     ] [lmH2s5S] recovered [0] indices into cluster_state
+[2017-02-14T18:17:30,846][INFO ][o.e.h.HttpServer         ] [lmH2s5S] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2017-02-14T18:17:30,846][INFO ][o.e.n.Node               ] [lmH2s5S] started

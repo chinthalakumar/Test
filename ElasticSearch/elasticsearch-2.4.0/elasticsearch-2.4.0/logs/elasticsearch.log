@@ -1,0 +1,18 @@
+[2017-02-16 15:20:49,965][INFO ][node                     ] [Isaac Christians] version[2.4.0], pid[8072], build[ce9f0c7/2016-08-29T09:14:17Z]
+[2017-02-16 15:20:49,966][INFO ][node                     ] [Isaac Christians] initializing ...
+[2017-02-16 15:20:50,589][INFO ][plugins                  ] [Isaac Christians] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2017-02-16 15:20:50,618][INFO ][env                      ] [Isaac Christians] using [1] data paths, mounts [[New Volume (E:)]], net usable_space [207.1gb], net total_space [221.6gb], spins? [unknown], types [NTFS]
+[2017-02-16 15:20:50,618][INFO ][env                      ] [Isaac Christians] heap size [910.5mb], compressed ordinary object pointers [true]
+[2017-02-16 15:20:52,520][INFO ][node                     ] [Isaac Christians] initialized
+[2017-02-16 15:20:52,521][INFO ][node                     ] [Isaac Christians] starting ...
+[2017-02-16 15:20:52,815][INFO ][transport                ] [Isaac Christians] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2017-02-16 15:20:52,824][INFO ][discovery                ] [Isaac Christians] elasticsearch/XK46zbAPSuecyPDQVkZ4AQ
+[2017-02-16 15:20:56,891][INFO ][cluster.service          ] [Isaac Christians] new_master {Isaac Christians}{XK46zbAPSuecyPDQVkZ4AQ}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2017-02-16 15:20:56,985][INFO ][gateway                  ] [Isaac Christians] recovered [0] indices into cluster_state
+[2017-02-16 15:20:57,080][INFO ][http                     ] [Isaac Christians] publish_address {127.0.0.1:9201}, bound_addresses {127.0.0.1:9201}, {[::1]:9201}
+[2017-02-16 15:20:57,081][INFO ][node                     ] [Isaac Christians] started
+[2017-02-16 15:51:56,323][INFO ][bootstrap                ] running graceful exit on windows
+[2017-02-16 15:51:56,328][INFO ][node                     ] [Isaac Christians] stopping ...
+[2017-02-16 15:51:56,361][INFO ][node                     ] [Isaac Christians] stopped
+[2017-02-16 15:51:56,362][INFO ][node                     ] [Isaac Christians] closing ...
+[2017-02-16 15:51:56,374][INFO ][node                     ] [Isaac Christians] closed
